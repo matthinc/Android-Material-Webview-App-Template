@@ -1,3 +1,23 @@
+#Android Material Webview
+
+No coding skills? - Create a native Android app from your website.
+Web developer with no Android skills? - Develop your own app with html/css/js.
+
+##Features:
+
+ Modern Material Design on every supported version of Android
+ Set actionbar color/icon/title for every page seperately
+ Supports Android from version 4.0.3, so it runs on > 90% of all Android devices out there
+ Save pages offline, or use a offline page, when the online one is not available
+ Use a Navigation drawer, the 3-dot menu or Tabs for navigation
+ Supports AdMob - make money with your app
+ Supports a share button
+ Add a refresh button to certain pages (e.g. newsfeed)
+ The apk file is very small (less than 3MB for me)
+ HTML5 / Js support
+
+##License:
+
 Copyright 2015 Matthias Rupp
 
 Licensed under the Apache License, Version 2.0 (the "License");
