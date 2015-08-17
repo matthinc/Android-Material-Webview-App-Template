@@ -19,7 +19,8 @@ Web developer with no Android skills? - Develop your own app with html/css/js.
 ##Screenshots
 
 
-![alt tag](http://abload.de/img/1eyzn7.png)
+![alt tag](http://abload.de/img/1d4swj.jpg)
+![alt tag](http://abload.de/img/2qns10.jpg)
 
 
 ##License:
